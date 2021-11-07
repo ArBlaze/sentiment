@@ -22,3 +22,6 @@ Data are organized as individual text files with each text file containing one l
 ### TODO:
 
 * Further improve score accuracy, with the current tools we're working with.
+
+### References
+Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011).
